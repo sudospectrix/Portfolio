@@ -1,2 +1,11 @@
-Portfolio
-Portfolio webpage created using tailwind css. Learnt a lot while creating this webpage and its been a great journey filled with knowledge, tech, creativity and so on.
+#Portfolio
+
+A simple and responsive personal portfolio built using tailwind css.
+##Table of Contents
+-Home section
+-About Me section
+-Project section
+-Contact section
+
+----
+#34676 Sreelekshmi S N

@@ -7,4 +7,4 @@ A simple and responsive personal portfolio built using tailwind css.
 -Contact section           
 -Footer
 ----
-&#169; Sreelekshmi S N
+&#169; 2025 Sreelekshmi S N

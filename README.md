@@ -1,5 +1,5 @@
 #Portfolio
-A simple and responsive personal portfolio built using tailwind css.
+#A simple and responsive personal portfolio built using tailwind css.
 #Table of Contents
 -Home section
 -About Me section
@@ -7,4 +7,4 @@ A simple and responsive personal portfolio built using tailwind css.
 -Contact section
 
 ----
-Sreelekshmi S N
+&#169; Sreelekshmi S N
